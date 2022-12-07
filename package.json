@@ -1,0 +1,28 @@
+{
+  "name": "puppeteer2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest index.test.js",
+    "cucumber": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lesdead/JSA-Puppeteer2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lesdead/JSA-Puppeteer2/issues"
+  },
+  "homepage": "https://github.com/Lesdead/JSA-Puppeteer2#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "cucumber": "^6.0.7",
+    "jest": "^29.1.2",
+    "jest-puppeteer": "^6.1.1",
+    "puppeteer": "^18.2.1"
+  }
+}
